@@ -29,18 +29,18 @@ Node.js로 개발을 시작했고 현재는 TypeScript를 조금씩 사용하고
 
 ## Study
 
-#### 뚝딱톡
+### 뚝딱톡
 
  <img src="https://user-images.githubusercontent.com/47456161/160606613-282aeee0-2c19-4ea8-ba37-ad2ed28ba101.png" alt="뚝딱톡" style="zoom:20%;" /> 
 
-프로그래밍 관련 그룹 스터디
+** 개발 그룹 스터디**
 
 * 2021년 8월 27일 ~ 현재 진행중
 * 참가 인원 : 8명
 
 
 
-#### Deep Flooow Camp
+### Deep Flooow Camp
 
 * 1회차 : TDD와 Unit Test (2022.03.14 ~ 2022.04.03)
   * https://github.com/kooks7/df-unit-test
