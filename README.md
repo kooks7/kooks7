@@ -46,7 +46,7 @@ Node.js로 개발을 시작했고 현재는 TypeScript를 조금씩 사용하고
   * https://github.com/kooks7/df-unit-test
 
 * 2회차 : Refactoring (2022.04.03 ~ )
-  * Refactoring 2
+  * Refactoring2
 
 
 
